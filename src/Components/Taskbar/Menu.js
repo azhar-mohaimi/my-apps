@@ -6,7 +6,7 @@ const Menu = () => {
         <div className="taskbar">
             <div className="taskbar-item">Home</div>
             <div className="taskbar-item">About</div>
-            <div className="taskbar-item">Services</div>
+            <div className="taskbar-item">Projects</div>
             <div className="taskbar-item">Contact</div>
         </div>
     );

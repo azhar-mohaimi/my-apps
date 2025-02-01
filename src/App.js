@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import Menu from './Taskbar/Menu.js';
+import Menu from './Components/Taskbar/Menu.js';
 
 
 function App() {

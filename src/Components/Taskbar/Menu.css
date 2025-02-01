@@ -1,0 +1,14 @@
+/* Menu.css */
+
+.taskbar {
+    background-color: #333;
+    display: flex;
+    height: 50px;
+    justify-content: flex-end;
+}
+
+.taskbar-item {
+    color: #f2f2f2;
+    padding: 14px 16px;
+    text-decoration: none;
+}
